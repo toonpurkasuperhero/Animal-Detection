@@ -1,0 +1,13 @@
+
+path: D:\animal_detection\archive\Dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: tapir
+  1: jaguarundi
+  2: maned_wolf
+  3: puma
+  4: giant_anteater
